@@ -1,8 +1,8 @@
 # User Stories
-#   - Who is the User.
-#   - What do they want to do with the tool.
-#   - What needs and desires do they want for the tool.
-#   - What is their skill level. 
+    - Who is the User.
+    - What do they want to do with the tool.
+    - What needs and desires do they want for the tool.
+    - What is their skill level. 
 
 Tam is from a Pacific Northwest tribe and helps plan the annual canoe journey.
 She wants to see how zooplanketon levels in July and August compare across past years, to inform timing decisions tied to whale presence.
