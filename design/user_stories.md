@@ -55,4 +55,7 @@ She is an expert in her field and comfortable with code, but she will not trust 
 
 
 ### Marcus, Commercial Fisherman
-8. Marcus is a commercial fisherman who works from a boat offshore for days at a time. He wants to know where plankton-rich or unusually warm or cold water sits relative to where he plans to fish, since that can hint at where forage fish and the species he targets are gathering. He needs a view that loads on a slow satellite or spotty cell connection, reads clearly on a phone or tablet in sunlight, and shows the latest glider observations with their date and how old they are. He also needs coverage gaps marked plainly, so he doesn’t treat an unsampled area as empty water. He knows the water from experience but has no data background, so he works only through the interface and has little time to dig.
+8. Marcus is a commercial fisherman who works from a boat offshore for days at a time. 
+He wants to know where plankton-rich or unusually warm or cold water sits relative to where he plans to fish, since that can hint at where forage fish and the species he targets are gathering. 
+He needs a view that loads on a slow satellite or spotty cell connection, reads clearly on a phone or tablet in sunlight, and shows the latest glider observations with their date and how old they are. He also needs coverage gaps marked plainly, so he doesn’t treat an unsampled area as empty water. 
+He knows the water from experience but has no data background, so he works only through the interface and has little time to dig.
