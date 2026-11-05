@@ -55,7 +55,10 @@ She is an expert in her field and comfortable with code, but she will not trust 
 
 
 ### Marcus, Commercial Fisherman
-8. Marcus is a commercial fisherman who works from a boat offshore for days at a time. He wants to know where plankton-rich or unusually warm or cold water sits relative to where he plans to fish, since that can hint at where forage fish and the species he targets are gathering. He needs a view that loads on a slow satellite or spotty cell connection, reads clearly on a phone or tablet in sunlight, and shows the latest glider observations with their date and how old they are. He also needs coverage gaps marked plainly, so he doesn’t treat an unsampled area as empty water. He knows the water from experience but has no data background, so he works only through the interface and has little time to dig.
+8. Marcus is a commercial fisherman who works from a boat offshore for days at a time. 
+He wants to know where plankton-rich or unusually warm or cold water sits relative to where he plans to fish, since that can hint at where forage fish and the species he targets are gathering. 
+He needs a view that loads on a slow satellite or spotty cell connection, reads clearly on a phone or tablet in sunlight, and shows the latest glider observations with their date and how old they are. He also needs coverage gaps marked plainly, so he doesn’t treat an unsampled area as empty water. 
+He knows the water from experience but has no data background, so he works only through the interface and has little time to dig.
 
 ### Hank, Glider Operator
 9. Hank is an experienced glider operator. He wants to check that the glider has enough battery to continue the deployment. He wants a desktop or mobile interface that displays the most recent battery level and battery level over time of the deployment. He is the director of operations for the lab and has many years of experience working with gliders, so he knows what battery levels are reasonable to maintain operation.
@@ -74,4 +77,3 @@ She is an expert in her field and comfortable with code, but she will not trust 
 
 ### Mark, Software Developer
 14. Mark is a software developer who added image processing to the plankton camera on an underwater glider. He wants to be able to add optical data products to the desktop or mobile interface.  He wants a way to easily pull data and integrate new plots or figures to the dashboard in a way that won’t mess up the other modules. He is familiar with data visualizations and using dashboards but new to programming them.
-
