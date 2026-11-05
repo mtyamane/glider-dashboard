@@ -34,4 +34,16 @@ He needs a map of his territory with trends over time, a way to flag readings th
 He has deep knowledge of the ocean but is not a data person, so he works only through the interface and needs plain-language labels.
 
 
+Carter is a policy analyst who briefs decision-makers on ocean and coastal issues. 
+He wants to cite credible glider observations of plankton and ocean conditions when supporting climate-related policy proposals. 
+He needs a simple summary view with a few clear charts, plain-language captions, one-click export of figures for slides and reports, and a visible data source and date range he can cite. He also needs the tool to state how much data backs each trend, so opponents can’t dismiss his claims over a thin record. 
+He is comfortable with policy documents and basic charts but has no programming background, so he works only through the interface.
 
+
+Dr. Ellis is a marine biologist in Alaska who studies how zooplankton distributions affect the fish, seabirds, and whales that feed on them. 
+She wants to see zooplankton and environmental data from glider missions, both during a deployment (to decide whether to adjust the glider’s path or sampling) and afterward (to analyze patterns by season, year, and depth). 
+She needs depth-resolved views along the glider’s track, not just a map, plus overlays of temperature, salinity, and other measured variables, filters for time of day and depth, and quality flags on every measurement. She also needs raw data export with sensor and processing details so she can verify results and run her own analysis in R or Python. 
+She is an expert in her field and comfortable with code, but she will not trust a view that hides how the data was processed.
+
+
+Marcus is a commercial fisherman who works from a boat offshore for days at a time. He wants to know where plankton-rich or unusually warm or cold water sits relative to where he plans to fish, since that can hint at where forage fish and the species he targets are gathering. He needs a view that loads on a slow satellite or spotty cell connection, reads clearly on a phone or tablet in sunlight, and shows the latest glider observations with their date and how old they are. He also needs coverage gaps marked plainly, so he doesn’t treat an unsampled area as empty water. He knows the water from experience but has no data background, so he works only through the interface and has little time to dig.
