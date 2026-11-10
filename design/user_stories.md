@@ -117,3 +117,49 @@ He knows the water from experience but has no data background, so he works only 
 
 ### Marcus, whale watching fan
 24. Marcus is a kayaker and whale-watching fan. He has heard that whales follow zooplankton because it is their food, and he wants to see where large patches of zooplankton are showing up. He needs a map that highlights areas with high zooplankton biomass so he can guess where whales might be feeding. He enjoys learning about the ocean but has no coding skills and uses the website on his phone or tablet.
+
+
+### Sue, travel instructor
+25. Sue is a travel instructor. Sue arranges whale watching travel for tourists. 
+Sue wants to see where the thick layers of plankton are so that she can identify the possible spots where whales are.
+Sue wants the dashboard to show the layers of plankton color-coded on the map.
+Sue is not technical at all and wants to see the dashboard on a web browser and on a mobile phone. Also she wants the dashboard to be easily findable via gooogle search.
+
+### Joe, technician
+26. Joe is a technician. He is responsible for the maintenance of the gliders. 
+Joe wants the dashboard to show the glider's technical status.
+Joe wants to see the battery levels, and any other errors that could indicate that there is a problem with the glider. Joe wants to see the dashboard on both computer (when he is at his office) and on mobile phone (when he is doing field work).
+Joe is mid-level technical. He can handle deeply technical issues with the hardware of the gliders, but not technical in terms of CS.
+
+
+### Derrick, maintenance team boss
+27. Derrick is Joe's boss. He wants to make sure that they are resource-efficient (not spending too much money or wasting unnecessary resources) when they do the maintanance.
+Derrick wants to see where the technical errors happened and the trend of technical issues in terms of time and locationa and analyze possible resource saving interventions or necessary changes in their maintenance procedure.
+Derrick is more financially-focused, but not technical at all.
+
+### Nora, researcher
+28. Nora is a researcher interested in seawater pollution. 
+Nora wants to see the locations where it is most polluted by trash and plastics and possbily see the correlation between such locations and the locations where any kind of human activity takes place. Nora would like a dashboard to show polluted water on a web browser.
+Nora is relatively tech-savy and can deal with some data acquisition techniques such as web scraping.
+
+### Esme, staff at National Institute of Science
+29. Esme works at the National Institute of Science and tracks return on investment. She wants to know whether the money spent on glider technology is paying off.
+Esme wants the dashboard to show summary numbers for each glider: How many days it was deployed, how much data it collected (biology and environment), how much time it spent down for maintenance, and what its operation and repairs cost. She wants to compare these across gliders and over time, for example cost per day of useful data. She also wants to export charts and tables for her reports to leadership and funders.
+Esme is comfortable with spreadsheets and reading charts but is not technical in data science or oceanography. She will use the dashboard on a computer at her office.
+
+### Paul, high school student
+30. Paul is a high school student who is interested in oceanography and ocean technology. Paul wants to learn how gliders work and what they find in the ocean.
+Paul wants to see where a glider is right now, the path it has traveled, and how deep it dives. He also wants to see simple charts of what it measures, like water temperature and plankton, at different depths. He wants short explanations or tooltips that tell him what each measurement means, so he can use the dashboard for a school science project.
+Paul is curious and comfortable with apps and websites but has no technical training in data or oceanography. He mostly uses his phone and sometimes a school laptop.
+
+### Dakota, graduate student
+31. Dakota is a graduate student in data science. She wants to use glider data for her thesis on how environmental conditions affect where plankton and fish gather.
+Dakota wants the dashboard to show biology, environment, and glider operational data together on the same timeline and map so she can spot patterns. She wants to filter by date, location, depth, and glider. She also wants to download the raw data (for example as CSV) or get it through an API, with clear documentation of units, sensor calibration, and data quality flags. Operational data matters to her too, because a glider error or battery level could explain a gap or odd values in the measurements.
+Dakota is highly technical. She can program in Python and R, query APIs, and clean messy data, but she is new to oceanographic data formats. She uses the dashboard on her laptop.
+
+### Elmo, parent
+32. Elmo is a parent with two young boys. He is interested in planning family outings to the coast and teaching his kids about the ocean.
+Elmo wants the dashboard to show whether the water near local beaches is clean and what the water temperature is, so he can decide where and when to take the kids to the beach. He also wants a fun, kid-friendly view, such as a map with a glider icon moving along its route and simple pictures of what lives in the water, so he can explore it with his sons.
+Elmo is not technical. He wants plain language, big clear visuals, and no jargon. He will mostly use the dashboard on his phone or a tablet at home.
+
+
