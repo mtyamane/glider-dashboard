@@ -1,0 +1,2 @@
+- plotting color palette should be colorblind safe
+- all documentation should be human reviewed
