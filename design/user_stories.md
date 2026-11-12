@@ -14,7 +14,7 @@ She has no programing background and works only through the interface.
 
 ### Sammy, Sea Witch
 2. Sammy is a self-proclaimed sea witch who plans her practice around the moon and the tides. 
-She wants to see whether zooplankton activity in the water follows the lunar cycle. 
+She wants to see <mark style="background-color: #90EE90;">whether zooplankton activity in the water follows the lunar cycle</mark>. 
 She needs a time series of zooplankton abundance with moon phase overlaid, the ability to separate day from night observations, and a way to compare several lunar cycles side by side. She also needs the tool to show how much data backs each pattern, so a few sparse observations don’t read as a trend. 
 She is curious and detail-oriented but has no scientific or programming background, so she works only through the interface and needs plain-language labels.
 
