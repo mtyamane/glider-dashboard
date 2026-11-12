@@ -7,7 +7,7 @@
 
 ### Tam, PNW Tribal Member
 1. Tam is from a Pacific Northwest tribe and helps plan the annual canoe journey.
-She wants to see how zooplanketon levels in July and August compare across past years, to inform timing decisions tied to whale presence.
+She wants to see <mark style="background-color: #90EE90;">how zooplanketon levels in July and August compare across past years</mark>, to inform timing decisions tied to whale presence.
 She needs a map with a plain-language legend, clearly marked coverage gaps, and a visible data source.
 She has no programing background and works only through the interface.
 
