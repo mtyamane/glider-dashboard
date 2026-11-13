@@ -89,83 +89,6 @@ Step 1 of the use case template applied to the 32 user stories in `user_stories.
 | US-31 Dakota | G-03, G-04 | Explores patterns on the dashboard and downloads raw data / API |
 | US-32 Elmo | G-06, G-10 | Checks beach conditions and explores the ocean with his kids |
 
----
-
-## Notes for writing each use case
-
-These are the differences inside each group that should become **alternate flows**, plus details to carry into the use case.
-
-**G-01 Monitor glider health**
-- Main flow: open a glider, see latest battery and sensor status, view battery over the deployment.
-- Alternate (novice, Sally): show safe ranges and a warning/danger indicator.
-- Alternate (expert, Hank): raw values and trends only; no hand-holding.
-- Alternate (Joe): error log alongside battery.
-- Needs: desktop and mobile; auto-refresh with no controls needed (Allen).
-
-**G-02 Watch science data live to steer the glider**
-- Main flow: view several biological and environmental variables over the deployment, spot a feature, flag it for the pilot to revisit.
-- Alternate (Sarah): zooplankton biomass, temperature, chlorophyll on one screen.
-- Alternate (Ellis): depth-resolved section along the track, depth and time-of-day filters.
-- Alternate (John): active acoustic data with a time slider and quality check.
-- Needs: no coding; quality flags visible.
-
-**G-03 Download or pull glider data**
-- Main flow: select glider/deployment, time range, area, and variables; download as CSV, JSON, or netCDF.
-- Alternate (expert coders: Zooey, Tim, Dakota): API access with documentation.
-- Alternate (novice, Jack): map and time slider to pick the range before downloading.
-- Needs: data dictionary (units, timestamps, locations), calibration and processing details, quality flags, update frequency, attribution, operational data alongside science data (Dakota).
-
-**G-04 Compare patterns across time**
-- Main flow: choose a region and season or period; compare across years or cycles.
-- Alternate (Tam): July–August zooplankton across years on a map.
-- Alternate (Sammy): time series with moon phase, day vs. night split, cycles side by side.
-- Alternate (Nico): color or filter by El Niño / La Niña with plain-language meaning.
-- Alternate (experts): by depth, season, year, deployment.
-- Needs: show how much data backs each pattern; mark coverage gaps; plain-language legend; visible data source.
-
-**G-05 Find where plankton or biomass is concentrated now**
-- Main flow: open map, see latest high-biomass areas with observation date and age.
-- Alternate (Marcus, fisherman): also unusually warm or cold water; works on a slow satellite connection and in sunlight.
-- Alternate (Sue, Marcus whale fan): color-coded plankton layers to guess whale feeding spots.
-- Needs: mobile first; coverage gaps clearly marked so empty areas are not read as "no plankton." Sue also wants the site findable on Google.
-
-**G-06 Check current water conditions**
-- Main flow: pick a location, see today's water temperature.
-- Alternate (Jake): one number or color scale, answer in seconds.
-- Alternate (Emma): temperature at different depths plus chlorophyll as a clarity hint.
-- Alternate (Elmo): whether the water near beaches is clean.
-- Needs: phone, plain language.
-
-**G-07 Investigate unusual water conditions**
-- Main flow: select an area and date range, see trends, flag readings outside the normal range.
-- Alternate (Namor): ongoing watch of his territory for bloom crashes or harmful blooms.
-- Alternate (Rivera): look back around specific dates and places, then export (links to G-03).
-- Needs: coverage gaps shown so missing data is never read as clean water; plain-language labels; tool describes conditions, not causes.
-
-**G-08 Get a summary to report or cite**
-- Main flow: open a summary view with a few key charts and captions; export figures.
-- Alternate (Carter): citable source, date range, and how much data backs each trend.
-- Alternate (David): mission overview — days out, distance traveled, health, key highlights.
-
-**G-09 Evaluate costs, reliability, and maintenance**
-- Main flow: view per-glider numbers over time and compare gliders.
-- Alternate (Esme): days deployed, data collected, downtime, cost, cost per day of useful data; export for reports.
-- Alternate (Derrick): where and when technical errors happened, trends to find savings.
-
-**G-10 Learn what the glider is doing**
-- Main flow: see the glider's current position, path, and dive depth with simple charts.
-- Alternate (Linda): projector-friendly, no jargon.
-- Alternate (Paul): tooltips explaining each measurement.
-- Alternate (Elmo): kid-friendly view with a moving glider icon and pictures of sea life.
-
-**G-11 Add a new data product**
-- Main flow: pull data, build a plot module, add it without breaking other modules.
-- Needs: developer documentation and a module template.
-
-**G-12 Map pollution and relate it to human activity**
-- Main flow: view polluted locations on a map with human activity overlays.
-
----
 
 ## Cross-cutting needs (apply to many use cases)
 
@@ -183,7 +106,6 @@ These came up in many stories. List them as non-functional requirements in each 
 | Show how old the latest data is | US-08 |
 | Export figures or data | US-03, 06, 07, 13, 15, 29, 31 |
 
----
 
 ## Open questions
 
