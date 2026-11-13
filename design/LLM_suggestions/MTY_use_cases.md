@@ -52,6 +52,15 @@ The following is a consolidated starting point for prioritization. It groups sim
 | Responsive/field use         | Mobile-friendly and low-bandwidth interface        | UC-01, UC-02, UC-04, UC-09               | US-08, US-09, US-10, US-16, US-18, US-22, US-23, US-24, US-25, US-26, US-32                      |
 | Operations analytics         | Mission, maintenance, and cost metrics             | UC-07                                    | US-21, US-27, US-29                                                                              |
 
+## Traceability notes and decisions to validate
+
+1.  **Stories are intentionally cross-referenced.** A story can support more than one use case because it may contain several goals. The cluster index lists primary placements; the detailed sections and cross-cluster backlog capture secondary relationships.
+2.  **US-07 and US-15 span multiple capabilities.** Their monitoring, analysis, and export needs are separated across the relevant use cases.
+3.  **US-31 spans scientific monitoring and data access.** Its combined map/timeline exploration is represented in UC-03, while raw download, API, and documentation needs are represented in UC-05.
+4.  **US-28 is kept separate.** Pollution mapping and comparison with human activity require data sources and processing that are not established by the other stories.
+5.  **US-12 is currently a standalone cluster.** It may later be combined with UC-03 if active acoustic monitoring is treated as one part of a broader scientific-data monitoring capability.
+6.  **US-14 is an enabling/developer use case.** It supports the extensibility of the dashboard rather than a direct end-user scientific workflow.
+7.  **No priority ranking is implied.** The stories do not provide enough information about project strategy, implementation effort, data readiness, or stakeholder weighting to rank features responsibly.
 
 ---
 ---
