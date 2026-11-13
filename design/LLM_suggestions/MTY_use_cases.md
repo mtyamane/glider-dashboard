@@ -24,7 +24,7 @@ This document groups the 32 supplied user stories into broader use cases for sof
 | UC-09    | Communicate Scientific Observations                   | Present observations through summaries, reports, and educational views                            | US-06, US-20, US-30                                    |
 | UC-10    | Investigate Marine Pollution                          | Explore pollution locations and possible relationships with human activity                        | US-28                                                  |
 
-# Cross-cluster feature backlog
+## Cross-cluster feature backlog
 
 The following is a consolidated starting point for prioritization. It groups similar capabilities that appear in multiple use cases. It is not a final implementation plan, and no scores have been assigned.
 
