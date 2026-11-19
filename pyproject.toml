@@ -1,0 +1,31 @@
+[project]
+
+name = "Glider-Dashboard"
+
+dynamic = ["version"]
+
+authors = [
+    {name = "Mark Yamane", email = "mtyamane@uw.edu"},
+    {name = "Shilong", email = "shilongz@uw.edu"},
+    {name = "Zoljargal Lkhagvajav", email = "zolzoey@uw.edu"},
+    {name = "Danner Peter", email = "danpeter@uw.edu"}
+]
+
+description = "An interactive dashboard that brings together operational, environmental, and biological data from Slocum underwater gliders."
+
+readme = "README.md"
+
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy>=1.25",
+    "pandas>=2.1",
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools_scm]
