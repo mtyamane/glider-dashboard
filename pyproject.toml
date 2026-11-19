@@ -29,3 +29,7 @@ classifiers = [
 ]
 
 [tool.setuptools_scm]
+
+[project.urls]
+Homepage = "https://github.com/mtyamane/glider-dashboard"
+Issues = "https://github.com/mtyamane/glider-dashboard/issues"
