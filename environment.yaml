@@ -1,4 +1,4 @@
-name: plankydash
+name: glidydash
 channels:
   - conda-forge
 dependencies:
