@@ -1,0 +1,13 @@
+name: plankydash
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib>=3.6.*
+  - numpy>=1.23
+  - pandas>=2.1
+  - pip
+  - pytest
+  - pyyaml>=5.4.1
+  - scipy>=1.9
+  - setuptools_scm>=8.1
+  - sphinx
