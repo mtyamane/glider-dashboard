@@ -32,7 +32,7 @@ jobs:
           activate-environment: ${{ env.ENV_NAME }}
           conda-remove-defaults: "true"
 
-      - name: Conda Info
+      - name: Conda Info                    # This needs to match the environment.yaml file
         run: |
           conda info -a
           conda list
@@ -45,4 +45,4 @@ jobs:
         run: pip install --no-deps .
 
       - name: Run Tests
-        run: pytest
+        run: pytest                         # This is as simple as calling pytest
